@@ -1,0 +1,83 @@
+user:
+  user_login_jwt: "/auth/"
+  user_login_cookie: "/user/auth/login"
+  user_view_me: "/user/users/me"
+  user_update_info: "/user/users/"
+  user_register_user: "/user/auth/register"
+  user_register_android: "/device/gcm"
+  user_register_ios: "/device/apns"
+  user_change_password: "/user/auth/change_password"
+  user_reset_password: "/user/auth/reset_password"
+
+box:
+  box_box: "/box/boxes"
+  box_initiate_auth: "/auth/box/initiate"
+  box_authenticate_auth: "/auth/box/authenticate"
+  camera_camera: "/camera/cameras"
+  camera_video_correlation: "/camera_saved_video/camera_saved_videos"
+  camera_video: "/camera_video/camera_videos"
+
+robot:
+  robot_robot: "/robot/robots"
+  robot_initiate_auth: "/auth/robot/initiate"
+  robot_authenticate_auth: "/auth/robot/authenticate"
+  robot_routes: "/route/routes"
+#  robot_create_patrol: "/robot/{id}/patrols"
+  robot_snaps: "/robot_snap/robot_snaps"
+  robot_videos: "/robot_video/robot_videos"
+  robot_robot_saved_videos: "/robot_saved_video/robot_saved_videos"
+  robot_inspection: "/inspection/inspections"
+  robot_config: "/config/robot/"
+  patrol_target: "/target/targets"
+  patrol_algo_config: "/algo_config/algo_configs"
+  patrol_detection_task: "/detection_task/detection_tasks"
+
+ccs:
+  ccs_sample: "/sample/samples"
+  ccs_raw_event: "/raw_event/raw_events"
+
+public:
+  public_get_agent: "/web/meta/get_agent"
+  public_get_global: "/web/meta/get_global"
+  public_get_timezones: "/web/meta/get_timezones"
+  public_all_event_types: "/web/meta/all_event_types"
+  public_manual_cleanup_task: "/manual_cleanup_task/manual_cleanup_tasks"
+
+map:
+  map_map_config: "/map_config/map_configs"
+  map_map: "/map/maps"
+  map_target: "/target/targets"
+  map_site: "/site/sites/"
+  map_domain: "/domain/domains/"
+
+perm:
+  perm_get_queryset_sql: "/perm/role_policy/get_queryset_sql"
+  perm_validate_conditions: "/perm/role_policy/validate_conditions"
+  perm_validate_resource_scope: "/perm/validate_resource_scope"
+  perm_validate_cross_join: "/perm/validate_cross_join"
+
+iot:
+  iot_box_agent: "/agent/boxes/"
+  iot_robot_agent: "/agent/robots/"
+  iot_device: "/iot/device/"
+
+org:
+  org_organization: "/organization/organizations"
+  org_domain_type: "/domain_type/domain_types"
+  org_domain: "/domain/domains"
+  org_user_node: "/user_node/user_nodes"
+  org_retrieve_org_validate: "/org/validate_get_organization"
+
+face:
+  face_libs: "/face/libs"
+  face_face: "/face/faces"
+  face_tracking_objects: "/face/tracking_objects"
+  face_tracking_records: "/face/tracking_records"
+  face_setting: "/face/settings"
+
+guard:
+  guard_company: "/guard_company/guard_companies"
+  guard_admin: "/guard_admin/guard_admins"
+  guard_guard: "/guard/guards"
+  monitoring_operator: "/monitoring_operator/monitoring_operators"
+  guard_new_case: "/new_case/cases"

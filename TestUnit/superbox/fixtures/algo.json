@@ -1,0 +1,529 @@
+{
+  "person:512": {
+    "name": "人群聚集",
+    "event_types": {
+      "person:512": "人群聚集"
+    }
+  },
+  "person:513": {
+    "name": "人群疏散",
+    "event_types": {
+      "person:513": "人群疏散"
+    }
+  },
+  "person:0": {
+    "name": "Person",
+    "event_types": {
+      "person:0": "Person"
+    }
+  },
+  "bicycle:1": {
+    "name": "Bicycle",
+    "event_types": {
+      "bicycle:1": "Bicycle"
+    }
+  },
+  "car:2": {
+    "name": "Car",
+    "event_types": {
+      "car:2": "Car"
+    }
+  },
+  "motorbike:3": {
+    "name": "Motorbike",
+    "event_types": {
+      "motorbike:3": "Motorbike"
+    }
+  },
+  "aeroplane:4": {
+    "name": "Aeroplane",
+    "event_types": {
+      "aeroplane:4": "Aeroplane"
+    }
+  },
+  "bus:5": {
+    "name": "Bus",
+    "event_types": {
+      "bus:5": "Bus"
+    }
+  },
+  "train:6": {
+    "name": "Train",
+    "event_types": {
+      "train:6": "Train"
+    }
+  },
+  "truck:7": {
+    "name": "Truck",
+    "event_types": {
+      "truck:7": "Truck"
+    }
+  },
+  "boat:8": {
+    "name": "Boat",
+    "event_types": {
+      "boat:8": "Boat"
+    }
+  },
+  "traffic_light:9": {
+    "name": "Traffic Light",
+    "event_types": {
+      "traffic_light:9": "Traffic Light"
+    }
+  },
+  "fire_hydrant:10": {
+    "name": "Fire Hydrant",
+    "event_types": {
+      "fire_hydrant:10": "Fire Hydrant"
+    }
+  },
+  "stop_sign:11": {
+    "name": "Stop Sign",
+    "event_types": {
+      "stop_sign:11": "Stop Sign"
+    }
+  },
+  "parking_meter:12": {
+    "name": "Parking Meter",
+    "event_types": {
+      "parking_meter:12": "Parking Meter"
+    }
+  },
+  "bench:13": {
+    "name": "Bench",
+    "event_types": {
+      "bench:13": "Bench"
+    }
+  },
+  "bird:14": {
+    "name": "Bird",
+    "event_types": {
+      "bird:14": "Bird"
+    }
+  },
+  "cat:15": {
+    "name": "Cat",
+    "event_types": {
+      "cat:15": "Cat"
+    }
+  },
+  "dog:16": {
+    "name": "Dog",
+    "event_types": {
+      "dog:16": "Dog"
+    }
+  },
+  "horse:17": {
+    "name": "Horse",
+    "event_types": {
+      "horse:17": "Horse"
+    }
+  },
+  "sheep:18": {
+    "name": "Sheep",
+    "event_types": {
+      "sheep:18": "Sheep"
+    }
+  },
+  "cow:19": {
+    "name": "Cow",
+    "event_types": {
+      "cow:19": "Cow"
+    }
+  },
+  "elephant:20": {
+    "name": "Elephant",
+    "event_types": {
+      "elephant:20": "Elephant"
+    }
+  },
+  "bear:21": {
+    "name": "Bear",
+    "event_types": {
+      "bear:21": "Bear"
+    }
+  },
+  "zebra:22": {
+    "name": "Zebra",
+    "event_types": {
+      "zebra:22": "Zebra"
+    }
+  },
+  "giraffe:23": {
+    "name": "Giraffe",
+    "event_types": {
+      "giraffe:23": "Giraffe"
+    }
+  },
+  "backpack:24": {
+    "name": "Backpack",
+    "event_types": {
+      "backpack:24": "Backpack"
+    }
+  },
+  "umbrella:25": {
+    "name": "Umbrella",
+    "event_types": {
+      "umbrella:25": "Umbrella"
+    }
+  },
+  "handbag:26": {
+    "name": "Handbag",
+    "event_types": {
+      "handbag:26": "Handbag"
+    }
+  },
+  "tie:27": {
+    "name": "Tie",
+    "event_types": {
+      "tie:27": "Tie"
+    }
+  },
+  "suitcase:28": {
+    "name": "Suitcase",
+    "event_types": {
+      "suitcase:28": "Suitcase"
+    }
+  },
+  "frisbee:29": {
+    "name": "Frisbee",
+    "event_types": {
+      "frisbee:29": "Frisbee"
+    }
+  },
+  "skis:30": {
+    "name": "Skis",
+    "event_types": {
+      "skis:30": "Skis"
+    }
+  },
+  "snowboard:31": {
+    "name": "Snowboard",
+    "event_types": {
+      "snowboard:31": "Snowboard"
+    }
+  },
+  "sports_ball:32": {
+    "name": "Sports Ball",
+    "event_types": {
+      "sports_ball:32": "Sports Ball"
+    }
+  },
+  "kite:33": {
+    "name": "Kite",
+    "event_types": {
+      "kite:33": "Kite"
+    }
+  },
+  "baseball_bat:34": {
+    "name": "Baseball Bat",
+    "event_types": {
+      "baseball_bat:34": "Baseball Bat"
+    }
+  },
+  "baseball_glove:35": {
+    "name": "Baseball Glove",
+    "event_types": {
+      "baseball_glove:35": "Baseball Glove"
+    }
+  },
+  "skateboard:36": {
+    "name": "Skateboard",
+    "event_types": {
+      "skateboard:36": "Skateboard"
+    }
+  },
+  "surfboard:37": {
+    "name": "Surfboard",
+    "event_types": {
+      "surfboard:37": "Surfboard"
+    }
+  },
+  "tennis_racket:38": {
+    "name": "Tennis Racket",
+    "event_types": {
+      "tennis_racket:38": "Tennis Racket"
+    }
+  },
+  "bottle:39": {
+    "name": "Bottle",
+    "event_types": {
+      "bottle:39": "Bottle"
+    }
+  },
+  "wine_glass:40": {
+    "name": "Wine glass",
+    "event_types": {
+      "wine_glass:40": "Wine glass"
+    }
+  },
+  "cup:41": {
+    "name": "Cup",
+    "event_types": {
+      "cup:41": "Cup"
+    }
+  },
+  "fork:42": {
+    "name": "Fork",
+    "event_types": {
+      "fork:42": "Fork"
+    }
+  },
+  "knife:43": {
+    "name": "Knife",
+    "event_types": {
+      "knife:43": "Knife"
+    }
+  },
+  "spoon:44": {
+    "name": "Spoon",
+    "event_types": {
+      "spoon:44": "Spoon"
+    }
+  },
+  "bowl:45": {
+    "name": "Bowl",
+    "event_types": {
+      "bowl:45": "Bowl"
+    }
+  },
+  "banana:46": {
+    "name": "Banana",
+    "event_types": {
+      "banana:46": "Banana"
+    }
+  },
+  "apple:47": {
+    "name": "Apple",
+    "event_types": {
+      "apple:47": "Apple"
+    }
+  },
+  "sandwich:48": {
+    "name": "Sandwich",
+    "event_types": {
+      "sandwich:48": "Sandwich"
+    }
+  },
+  "orange:49": {
+    "name": "Orange",
+    "event_types": {
+      "orange:49": "Orange"
+    }
+  },
+  "broccoli:50": {
+    "name": "Broccoli",
+    "event_types": {
+      "broccoli:50": "Broccoli"
+    }
+  },
+  "carrot:51": {
+    "name": "Carrot",
+    "event_types": {
+      "carrot:51": "Carrot"
+    }
+  },
+  "hot_dog:52": {
+    "name": "Hot dog",
+    "event_types": {
+      "hot_dog:52": "Hot dog"
+    }
+  },
+  "pizza:53": {
+    "name": "Pizza",
+    "event_types": {
+      "pizza:53": "Pizza"
+    }
+  },
+  "donut:54": {
+    "name": "Donut",
+    "event_types": {
+      "donut:54": "Donut"
+    }
+  },
+  "cake:55": {
+    "name": "Cake",
+    "event_types": {
+      "cake:55": "Cake"
+    }
+  },
+  "chair:56": {
+    "name": "Chair",
+    "event_types": {
+      "chair:56": "Chair"
+    }
+  },
+  "sofa:57": {
+    "name": "Sofa",
+    "event_types": {
+      "sofa:57": "Sofa"
+    }
+  },
+  "pottedplant:58": {
+    "name": "Pottedplant",
+    "event_types": {
+      "pottedplant:58": "Pottedplant"
+    }
+  },
+  "bed:59": {
+    "name": "Bed",
+    "event_types": {
+      "bed:59": "Bed"
+    }
+  },
+  "diningtable:60": {
+    "name": "Diningtable",
+    "event_types": {
+      "diningtable:80": "Diningtable"
+    }
+  },
+  "toilet:61": {
+    "name": "Toilet",
+    "event_types": {
+      "toilet:60": "Toilet"
+    }
+  },
+  "tvmonitor:62": {
+    "name": "TV Monitor",
+    "event_types": {
+      "tvmonitor:61": "TV Monitor"
+    }
+  },
+  "laptop:63": {
+    "name": "Laptop",
+    "event_types": {
+      "laptop:62": "Laptop"
+    }
+  },
+  "mouse:64": {
+    "name": "Mouse",
+    "event_types": {
+      "mouse:63": "Mouse"
+    }
+  },
+  "remote:65": {
+    "name": "Remote",
+    "event_types": {
+      "remote:64": "Remote"
+    }
+  },
+  "keyboard:66": {
+    "name": "Keyboard",
+    "event_types": {
+      "keyboard:65": "Keyboard"
+    }
+  },
+  "cell_phone:67": {
+    "name": "Cell phone",
+    "event_types": {
+      "cell_phone:66": "Cell phone"
+    }
+  },
+  "microwave:68": {
+    "name": "Microwave",
+    "event_types": {
+      "microwave:67": "Microwave"
+    }
+  },
+  "oven:69": {
+    "name": "Oven",
+    "event_types": {
+      "oven:68": "Oven"
+    }
+  },
+  "toaster:70": {
+    "name": "Toaster",
+    "event_types": {
+      "toaster:69": "Toaster"
+    }
+  },
+  "sink:71": {
+    "name": "Sink",
+    "event_types": {
+      "sink:70": "Sink"
+    }
+  },
+  "refrigerator:72": {
+    "name": "Refrigerator",
+    "event_types": {
+      "refrigerator:81": "Refrigerator"
+    }
+  },
+  "book:73": {
+    "name": "Book",
+    "event_types": {
+      "book:71": "Book"
+    }
+  },
+  "clock:74": {
+    "name": "Clock",
+    "event_types": {
+      "clock:72": "Clock"
+    }
+  },
+  "vase:75": {
+    "name": "Vase",
+    "event_types": {
+      "vase:73": "Vase"
+    }
+  },
+  "scissors:76": {
+    "name": "Scissors",
+    "event_types": {
+      "scissors:74": "Scissors"
+    }
+  },
+  "teddy_bear:77": {
+    "name": "Teddy Bear",
+    "event_types": {
+      "teddy_bear:75": "Teddy Bear"
+    }
+  },
+  "hair_drier:78": {
+    "name": "Hair Drier",
+    "event_types": {
+      "hair_drier:76": "Hair Drier"
+    }
+  },
+  "toothbrush:79": {
+    "name": "Toothbrush",
+    "event_types": {
+      "toothbrush:77": "Toothbrush"
+    }
+  },
+  "enter:80": {
+    "name": "Enter",
+    "event_types": {
+      "enter:78": "Enter"
+    }
+  },
+  "leave:81": {
+    "name": "Leave",
+    "event_types": {
+      "leave:79": "Leave"
+    }
+  },
+  "face:82": {
+    "name": "Face",
+    "event_types": {
+      "face:82": "Face"
+    }
+  },
+  "store:83": {
+    "name": "Store",
+    "event_types": {
+      "store_open_delay:83": "Store Open Delay",
+      "store_close_delay:84": "Store Close Delay",
+      "store_covered:85": "Store Covered"
+    }
+  },
+  "booth:84": {
+    "name": "Booth",
+    "event_types": {
+      "booth_open_delay:86": "Booth Open Delay",
+      "booth_close_delay:87": "Booth Close Delay",
+      "booth_not_exist:88": "Booth Not Exist",
+      "booth_covered:100": "Booth Covered"
+    }
+  }
+}

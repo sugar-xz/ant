@@ -1,0 +1,11 @@
+basecase:
+  - TestSuite/demo/unitest/test_main
+
+website:
+#  - TestSuite/website/test_website
+
+minibox:
+  - TestSuite/Minibox/test_minibox
+
+superbox:
+  - TestSuite/superbox/test_superbox

@@ -1,0 +1,519 @@
+2021-01-26 10:08:37 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 10:08:37 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 10:08:37 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 10:08:37 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 10:09:32 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 10:09:32 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 10:09:32 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 10:09:32 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 10:13:42 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 10:13:42 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 10:13:42 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 10:13:42 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 10:46:05 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: {.py
+2021-01-26 10:46:05 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ".py
+2021-01-26 10:46:05 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: c.py
+2021-01-26 10:46:05 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: a.py
+2021-01-26 10:46:05 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 10:46:05 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 10:46:05 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 10:46:05 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ".py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: :.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: [.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ".py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: T.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: S.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: u.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: d.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: m.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: o.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: u.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: n.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: _.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: m.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: a.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: n.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ".py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ].py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: }.py
+2021-01-26 10:46:06 - /Users/sugar/git/turingtest/run_test.py[line 60] - ERROR:Test file does not exist!
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 60, in run
+   /Users/sugar/git/turingtest/server.py,line 66, in test
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 10:50:21 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 10:50:21 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 10:50:21 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 10:50:21 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:04:36 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 11:04:36 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:04:36 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:04:36 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:07:44 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 11:07:44 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:07:44 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:07:44 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:13:26 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 11:13:26 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:13:26 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:13:26 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:17:35 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: cases.py
+2021-01-26 11:17:35 - /Users/sugar/git/turingtest/run_test.py[line 60] - ERROR:Test file does not exist!
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 60, in run
+   /Users/sugar/git/turingtest/server.py,line 68, in test
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: [.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ".py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: T.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: S.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: u.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: d.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: m.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: o.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: u.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: n.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: _.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: m.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: a.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: n.py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ".py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ].py
+2021-01-26 11:18:04 - /Users/sugar/git/turingtest/run_test.py[line 60] - ERROR:Test file does not exist!
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 60, in run
+   /Users/sugar/git/turingtest/server.py,line 68, in test
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 11:18:08 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 11:18:08 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:18:08 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:18:08 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:18:50 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 11:18:50 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:18:50 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:18:50 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:19:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 11:19:30 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:19:30 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:19:30 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: [.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ".py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: T.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: S.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: u.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: d.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: m.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: o.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: u.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: n.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: _.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: m.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: a.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: n.py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ".py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ].py
+2021-01-26 11:19:46 - /Users/sugar/git/turingtest/run_test.py[line 60] - ERROR:Test file does not exist!
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 60, in run
+   /Users/sugar/git/turingtest/server.py,line 69, in test
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: [.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ".py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: T.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: S.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: u.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: d.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: m.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: o.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: u.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: n.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: .py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: e.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: s.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: t.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: _.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: m.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: a.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: i.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: n.py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ".py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: ].py
+2021-01-26 11:20:30 - /Users/sugar/git/turingtest/run_test.py[line 60] - ERROR:Test file does not exist!
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 60, in run
+   /Users/sugar/git/turingtest/server.py,line 69, in test
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 11:21:48 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 11:21:48 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:21:48 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:21:48 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:22:03 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 11:22:03 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:22:03 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:22:03 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:27:48 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 11:27:48 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:27:48 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:27:48 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:31:43 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 11:34:16 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 11:36:08 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: *main.py
+2021-01-26 11:36:08 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:36:08 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:36:08 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:36:13 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: *main.py
+2021-01-26 11:36:13 - /Users/sugar/git/turingtest/run_test.py[line 63] - INFO:********TEST START********
+2021-01-26 11:36:13 - /Users/sugar/git/turingtest/run_test.py[line 72] - INFO:*********TEST END*********
+2021-01-26 11:36:13 - /Users/sugar/git/turingtest/run_test.py[line 82] - DEBUG:No send report email to developer.
+2021-01-26 11:44:54 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: *main.py
+2021-01-26 11:44:54 - /Users/sugar/git/turingtest/run_test.py[line 64] - INFO:********TEST START********
+2021-01-26 11:44:54 - /Users/sugar/git/turingtest/run_test.py[line 73] - INFO:*********TEST END*********
+2021-01-26 11:44:54 - /Users/sugar/git/turingtest/run_test.py[line 83] - DEBUG:No send report email to developer.
+2021-01-26 15:16:43 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 15:16:43 - /Users/sugar/git/turingtest/run_test.py[line 64] - INFO:********TEST START********
+2021-01-26 15:16:43 - /Users/sugar/git/turingtest/run_test.py[line 73] - INFO:*********TEST END*********
+2021-01-26 15:16:43 - /Users/sugar/git/turingtest/run_test.py[line 83] - DEBUG:No send report email to developer.
+2021-01-26 15:18:22 - /Users/sugar/git/turingtest/run_test.py[line 44] - DEBUG:TestFile: test_main.py
+2021-01-26 15:18:22 - /Users/sugar/git/turingtest/run_test.py[line 64] - INFO:********TEST START********
+2021-01-26 15:18:22 - /Users/sugar/git/turingtest/run_test.py[line 73] - INFO:*********TEST END*********
+2021-01-26 15:18:22 - /Users/sugar/git/turingtest/run_test.py[line 83] - DEBUG:No send report email to developer.
+2021-01-26 17:12:02 - /Users/sugar/git/turingtest/run_test.py[line 55] - DEBUG:TestFile: *main.py
+2021-01-26 17:12:02 - /Users/sugar/git/turingtest/run_test.py[line 75] - INFO:********TEST START********
+2021-01-26 17:12:02 - /Users/sugar/git/turingtest/run_test.py[line 84] - INFO:*********TEST END*********
+2021-01-26 17:12:02 - /Users/sugar/git/turingtest/run_test.py[line 94] - DEBUG:No send report email to developer.
+2021-01-26 17:48:15 - /Users/sugar/git/turingtest/run_test.py[line 55] - DEBUG:TestFile: test_main.py
+2021-01-26 17:48:15 - /Users/sugar/git/turingtest/run_test.py[line 75] - INFO:********TEST START********
+2021-01-26 17:48:15 - /Users/sugar/git/turingtest/run_test.py[line 84] - INFO:*********TEST END*********
+2021-01-26 17:48:15 - /Users/sugar/git/turingtest/run_test.py[line 94] - DEBUG:No send report email to developer.
+2021-01-26 18:19:57 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:21:22 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:22:34 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:22:38 - /Users/sugar/git/turingtest/run_test.py[line 67] - INFO:********TEST START********
+2021-01-26 18:22:38 - /Users/sugar/git/turingtest/run_test.py[line 76] - INFO:*********TEST END*********
+2021-01-26 18:22:38 - /Users/sugar/git/turingtest/run_test.py[line 86] - DEBUG:No send report email to developer.
+2021-01-26 18:22:55 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:26:43 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:27:38 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:27:47 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:28:25 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:29:00 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:29:16 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:29:16 - /Users/sugar/git/turingtest/run_test.py[line 65] - ERROR:Directory error: Start directory is not importable: '/Users/sugar/git/turingtest/TestSuite2'
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 65, in run
+   /Users/sugar/git/turingtest/server.py,line 77, in execute_case
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 18:29:36 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:29:41 - /Users/sugar/git/turingtest/run_test.py[line 65] - ERROR:Directory error: Start directory is not importable: '/Users/sugar/git/turingtest/TestSuite2'
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 65, in run
+   /Users/sugar/git/turingtest/server.py,line 77, in execute_case
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 18:30:48 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:30:51 - /Users/sugar/git/turingtest/run_test.py[line 65] - ERROR:Directory error: Start directory is not importable: '/Users/sugar/git/turingtest/TestSuite2'
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 65, in run
+   /Users/sugar/git/turingtest/server.py,line 77, in execute_case
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 18:31:00 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:31:00 - /Users/sugar/git/turingtest/run_test.py[line 65] - ERROR:Directory error: Start directory is not importable: '/Users/sugar/git/turingtest/TestSuite2'
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 65, in run
+   /Users/sugar/git/turingtest/server.py,line 77, in execute_case
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 18:31:18 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:31:18 - /Users/sugar/git/turingtest/run_test.py[line 65] - ERROR:Directory error: Start directory is not importable: '/Users/sugar/git/turingtest/TestSuite2'
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 65, in run
+   /Users/sugar/git/turingtest/server.py,line 77, in execute_case
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 18:32:25 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:32:25 - /Users/sugar/git/turingtest/run_test.py[line 65] - ERROR:Directory error: Start directory is not importable: '/Users/sugar/git/turingtest/TestSuite2'
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 65, in run
+   /Users/sugar/git/turingtest/server.py,line 77, in execute_case
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 18:32:31 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:32:31 - /Users/sugar/git/turingtest/run_test.py[line 65] - ERROR:Directory error: Start directory is not importable: '/Users/sugar/git/turingtest/TestSuite2'
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 65, in run
+   /Users/sugar/git/turingtest/server.py,line 77, in execute_case
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 18:34:31 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:34:31 - /Users/sugar/git/turingtest/run_test.py[line 65] - ERROR:Directory error: Start directory is not importable: '/Users/sugar/git/turingtest/TestSuite2'
+   /Users/sugar/git/turingtest/testframe/common/logger.py,line 65, in error
+   /Users/sugar/git/turingtest/run_test.py,line 65, in run
+   /Users/sugar/git/turingtest/server.py,line 77, in execute_case
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1936, in dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 1950, in full_dispatch_request
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2447, in wsgi_app
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/flask/app.py,line 2464, in __call__
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 312, in execute
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 323, in run_wsgi
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 379, in handle_one_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py,line 427, in handle
+   /Users/sugar/git/venvs/test/lib/python3.8/site-packages/werkzeug/serving.py,line 345, in handle
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 720, in __init__
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 360, in finish_request
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py,line 650, in process_request_thread
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 870, in run
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 932, in _bootstrap_inner
+   /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py,line 890, in _bootstrap
+   /Applications/PyCharm.app/Contents/helpers/pydev/_pydev_bundle/pydev_monkey.py,line 747, in __call__
+2021-01-26 18:35:07 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
+2021-01-26 18:35:13 - /Users/sugar/git/turingtest/run_test.py[line 45] - DEBUG:TestFile: test_main.py
